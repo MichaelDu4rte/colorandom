@@ -3,11 +3,6 @@
 ### Resumo
 - Esse gerador de cores em hexadecimal permite ao usario gerar paleta de cores aleatorias. Cada cor tem seu código hexadecimal renderizado em cima dela, e o usuário pode escolher qualquer cor que gostaria de manter.
 
-  
-
-### Preview
-!(https://user-images.githubusercontent.com/114776048/211411035-57340424-a2a3-4a87-a190-95990d9303df.gif)
-
 
 ### Contexto
 - Feito para aprendizado.
