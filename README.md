@@ -17,4 +17,4 @@
 ### Como executar
 - Clone este repositório e navegue até o diretório dele.
 - Execute "index.html" no prompt de comando e o aplicativo deve abrir em seu navegador padrão.
-- Caso prefira, poderá acessar o site: 
+- Caso prefira, poderá acessar o site: https://michaeldu4rte.github.io/colorandom/ 
